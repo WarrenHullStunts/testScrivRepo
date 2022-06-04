@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="FF9F1B22-7291-43FC-9021-B53D445B92F4" Version="2.0" Creator="SCRMAC-3.2.3-14869" Device="Warrens-MacBook-Pro" Author="" Modified="2022-06-04 11:27:45 -0400" ModID="1BFB6DCC-9424-4A4E-8121-2A9BB89F03B3">
+<ScrivenerProject Identifier="FF9F1B22-7291-43FC-9021-B53D445B92F4" Version="2.0" Creator="SCRMAC-3.2.3-14869" Device="Warrens-MacBook-Pro" Author="" Modified="2022-06-04 11:47:32 -0400" ModID="319A6EA2-B820-4DBB-A535-2F69AE8B140B">
     <Binder>
         <BinderItem UUID="4BC5A8B2-ECF0-4276-95B8-180491ED1288" Type="Text" Created="2022-06-04 11:17:24 -0400" Modified="2022-06-04 11:17:24 -0400">
             <Title>Screenplay Format</Title>
@@ -34,14 +34,14 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="BB29ADD1-4387-4A71-BEFD-F761CF5A0AA6" Type="Text" Created="2022-06-04 11:25:42 -0400" Modified="2022-06-04 11:27:45 -0400">
+                <BinderItem UUID="BB29ADD1-4387-4A71-BEFD-F761CF5A0AA6" Type="Text" Created="2022-06-04 11:25:42 -0400" Modified="2022-06-04 11:47:32 -0400">
                     <Title>A third one</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
                         <TextMode>Script</TextMode>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>42,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -205,11 +205,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-21 06:44:59 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2022-06-05 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="13" Characters="69" Date="2022-06-04 11:17:23 -0400"/>
+        <PreviousSession Words="18" Characters="120" Date="2022-06-04 11:42:21 -0400"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2022-06-04 11:17:24 -0400">
-        <DraftWordCount>13</DraftWordCount>
-        <DraftCharCount>69</DraftCharCount>
+        <DraftWordCount>18</DraftWordCount>
+        <DraftCharCount>120</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
