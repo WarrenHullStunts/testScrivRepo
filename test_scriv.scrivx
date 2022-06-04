@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="FF9F1B22-7291-43FC-9021-B53D445B92F4" Version="2.0" Creator="SCRMAC-3.2.3-14869" Device="Warrens-MacBook-Pro" Author="" Modified="2022-06-04 11:17:43 -0400" ModID="554FB9A1-BD44-4059-B841-8013F1CDF574">
+<ScrivenerProject Identifier="FF9F1B22-7291-43FC-9021-B53D445B92F4" Version="2.0" Creator="SCRMAC-3.2.3-14869" Device="Warrens-MacBook-Pro" Author="" Modified="2022-06-04 11:27:45 -0400" ModID="1BFB6DCC-9424-4A4E-8121-2A9BB89F03B3">
     <Binder>
         <BinderItem UUID="4BC5A8B2-ECF0-4276-95B8-180491ED1288" Type="Text" Created="2022-06-04 11:17:24 -0400" Modified="2022-06-04 11:17:24 -0400">
             <Title>Screenplay Format</Title>
@@ -14,8 +14,28 @@
         <BinderItem UUID="3C57A925-E91E-4D5D-A1D6-F16A2F7A3D35" Type="DraftFolder" Created="2022-06-04 11:17:24 -0400" Modified="2022-06-04 11:17:24 -0400">
             <Title>Screenplay</Title>
             <Children>
-                <BinderItem UUID="1938150C-AE2B-449D-877D-7562C3A19ED3" Type="Text" Created="2022-06-04 11:17:24 -0400" Modified="2022-06-04 11:17:24 -0400">
+                <BinderItem UUID="1938150C-AE2B-449D-877D-7562C3A19ED3" Type="Text" Created="2022-06-04 11:17:24 -0400" Modified="2022-06-04 11:25:36 -0400">
                     <Title>Scene</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>27,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="56740D08-2A49-45BB-A270-B3A396FA2274" Type="Text" Created="2022-06-04 11:25:38 -0400" Modified="2022-06-04 11:25:40 -0400">
+                    <Title>Another one</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="BB29ADD1-4387-4A71-BEFD-F761CF5A0AA6" Type="Text" Created="2022-06-04 11:25:42 -0400" Modified="2022-06-04 11:27:45 -0400">
+                    <Title>A third one</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
@@ -109,7 +129,7 @@
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                        <IconFileName>Characters (Character Sheet)</IconFileName>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>0,14</TextSelection>
@@ -119,7 +139,7 @@
                     <Title>Setting Sketch</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
-                        <IconFileName>Locations (Location Sheet).tiff</IconFileName>
+                        <IconFileName>Locations (Location Sheet)</IconFileName>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>0,15</TextSelection>
@@ -185,11 +205,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-21 06:44:59 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2022-06-05 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2022-06-04 11:17:23 -0400"/>
+        <PreviousSession Words="13" Characters="69" Date="2022-06-04 11:17:23 -0400"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2022-06-04 11:17:24 -0400">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
+        <DraftWordCount>13</DraftWordCount>
+        <DraftCharCount>69</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>

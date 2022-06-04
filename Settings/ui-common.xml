@@ -10,13 +10,15 @@
             <ItemID>56F3251B-33DB-489A-8F16-B05AE53D648A</ItemID>
         </ExpandedItems>
         <Selection>
-            <ItemID>4BC5A8B2-ECF0-4276-95B8-180491ED1288</ItemID>
+            <ItemID>BB29ADD1-4387-4A71-BEFD-F761CF5A0AA6</ItemID>
         </Selection>
+        <SearchResultsSort Titles="Ascending" Dates="Ascending">None</SearchResultsSort>
     </Binder>
-    <Inspector Show="No" View="Notes">
+    <Inspector Show="Yes" View="Comments">
         <ShowProjectBookmarks>No</ShowProjectBookmarks>
+        <ShowSimilarTexts>No</ShowSimilarTexts>
         <Collapse>CustomMetaData</Collapse>
-        <FootnoteNumbers Prompt="No">Yes</FootnoteNumbers>
+        <FootnoteNumbers Prompt="No">No</FootnoteNumbers>
     </Inspector>
     <Split>None</Split>
     <BinderAffects>Current</BinderAffects>
@@ -33,7 +35,7 @@
         <Keywords>No</Keywords>
         <Numbers Restart="No">No</Numbers>
         <SnapToGrid>No</SnapToGrid>
-        <BlankCardsAGhosts>No</BlankCardsAGhosts>
+        <BlankCardsAsGhosts>No</BlankCardsAsGhosts>
     </Corkboards>
     <Text>
         <ShowFormatBar>Yes</ShowFormatBar>
@@ -62,8 +64,13 @@
                 <CurrentViewMode>Single</CurrentViewMode>
                 <SelectionAffects>None</SelectionAffects>
                 <Content>
-                    <ItemID>4BC5A8B2-ECF0-4276-95B8-180491ED1288</ItemID>
+                    <ItemID>BB29ADD1-4387-4A71-BEFD-F761CF5A0AA6</ItemID>
                 </Content>
+                <NavigationHistory CurrentIndex="2">
+                    <HistoryItem Type="BinderItems" ViewMode="Single">1938150C-AE2B-449D-877D-7562C3A19ED3</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">56740D08-2A49-45BB-A270-B3A396FA2274</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">BB29ADD1-4387-4A71-BEFD-F761CF5A0AA6</HistoryItem>
+                </NavigationHistory>
             </View>
             <Text>
                 <ShowRuler>No</ShowRuler>
